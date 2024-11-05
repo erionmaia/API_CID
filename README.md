@@ -24,7 +24,8 @@ Certifique-se de ter os seguintes softwares instalados:
 ## Configuração do Projeto
 
 1. **Criando a pasta:**
-   ```mkdir cid_api
+   ```
+   mkdir cid_api
    cd cid_api
 
 2. **Clonando o repositório:**
